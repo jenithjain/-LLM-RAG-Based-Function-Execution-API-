@@ -1,0 +1,12 @@
+2025-03-26 14:09:59 - utils.logger - INFO - Created directory: e:\InterLLM\automation_assistant\logs
+2025-03-26 14:09:59 - utils.logger - INFO - Created directory: e:\InterLLM\automation_assistant\utils
+2025-03-26 14:09:59 - utils.logger - INFO - Created directory: e:\InterLLM\automation_assistant\data
+2025-03-26 14:09:59 - utils.logger - INFO - Project initialization completed successfully
+2025-03-26 14:10:32 - utils.logger - INFO - Successfully registered custom function: custom_greeting
+2025-03-26 14:10:33 - utils.logger - INFO - Testing query: Check system CPU usage
+2025-03-26 14:10:47 - utils.logger - INFO - Testing query: Take a screenshot of my screen
+2025-03-26 14:10:47 - utils.logger - ERROR - Error executing take_screenshot: [Errno 2] No such file or directory: 'C:\\Users\\Jenith\\Desktop\\screenshot.png'
+2025-03-26 14:10:49 - utils.logger - INFO - Testing query: Show running processes
+2025-03-26 14:10:58 - utils.logger - INFO - Testing query: Open calculator app
+2025-03-26 14:11:01 - utils.logger - INFO - Testing query: Create a greeting message
+2025-03-26 14:11:13 - utils.logger - ERROR - Error executing take_screenshot: [Errno 2] No such file or directory: 'C:\\Users\\Jenith\\Desktop\\screenshot.png'
