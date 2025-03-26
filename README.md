@@ -87,7 +87,7 @@ curl -X POST "http://localhost:8000/execute" \
 "function": "get_cpu_usage",
 "code": "from automation_functions import get_cpu_usage\n\ndef main():\n    try:\n
 result = get_cpu_usage()\n    print(\"get_cpu_usage executed successfully.\")\n
-if result is not None:\n    print(f\"Result: {result}\")\n    except Exception as e:\n    print(f\"Error executing function: {e}\")\n\nif __name__ == \"__main__\":\n    main()"
+if result is not None:\n    print(f\"Result: {result}\")\n    except Exception as e:\n    print(f\"Error executing function: {e}\")\n\nif __name__ == \"__main__\":\n    main()
 }
 ```
 }
