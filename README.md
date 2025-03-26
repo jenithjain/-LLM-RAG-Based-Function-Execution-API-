@@ -1,7 +1,10 @@
 # -LLM-RAG-Based-Function-Execution-API-
 # Automation Assistant
-
 A natural language-powered automation tool that helps users perform system tasks through simple text commands.
+
+## Overview
+
+Automation Assistant is a Python-based application that uses Retrieval-Augmented Generation (RAG) to match user queries with appropriate automation functions. It provides both a web interface (Streamlit) and an API (FastAPI) for executing common system tasks.
 
 ## Testpoint Screenshots
 ![Screenshot 2025-03-26 185614](https://github.com/user-attachments/assets/b0603219-924e-4877-9159-befe365e9d7f)
