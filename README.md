@@ -8,6 +8,14 @@ A natural language-powered automation tool that helps users perform system tasks
 
 ![Screenshot 2025-03-26 191003](https://github.com/user-attachments/assets/af4f84da-ee05-4310-8525-bab654b20443)
 
+![Screenshot 2025-03-26 191425](https://github.com/user-attachments/assets/e3e47e12-4a5f-4199-bcfe-a572f31aad59)
+
+![Screenshot 2025-03-26 191158](https://github.com/user-attachments/assets/f1b55896-cc20-495a-8069-531b409cc1a7)
+
+
+
+
+
 ## Overview
 
 Automation Assistant is a Python-based application that uses Retrieval-Augmented Generation (RAG) to match user queries with appropriate automation functions. It provides both a web interface (Streamlit) and an API (FastAPI) for executing common system tasks.
